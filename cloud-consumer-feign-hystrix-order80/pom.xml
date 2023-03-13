@@ -12,8 +12,6 @@
     <artifactId>cloud-consumer-feign-hystrix-order80</artifactId>
 
 
-
-
     <dependencies>
         <!--    openfeign    -->
         <dependency>
